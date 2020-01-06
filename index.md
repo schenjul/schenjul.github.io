@@ -4,7 +4,7 @@ layout: default
 
 ## Introduction
 
-<img src="assets/images/Julia_2.jpg" alt="Photo" hspace="20" width="30%" align="right"/> My name is Julia and I am a exchange student from Germany. I study German Linguistics at the Eberhard Karls University in Tübingen. As part of my study I spent one semester at the University of Helsinki. In my free time I read very much or work with dogs or horses. 
+<img src="assets/images/Mainpage.jpg" alt="Photo" hspace="20" width="30%" align="right"/> My name is Julia and I am a exchange student from Germany. I study German Linguistics at the Eberhard Karls University in Tübingen. As part of my study I spent one semester at the University of Helsinki. In my free time I read very much or work with dogs or horses. 
 
 ## Find me on
 
@@ -22,11 +22,14 @@ Julia.Schenk@helsinki.fi.
 
 ## Projects
 
-Learn how to use GitHub.
-[cmdline-course] (https://github.com/schenjul/cmdline-course)
+Learn how to use GitHub  
+[cmdline-course](https://github.com/schenjul/cmdline-course)
+  
+Creating a Github page  
+[schenjul.github.io](https://github.com/schenjul/schenjul.github.io)
 
 ## Misc. 
 
-Curriculum Vitae
+[Curriculum Vitae](https://github.com/schenjul/schenjul.github.io/blob/master/assets/documents/Julia_Schenk_CV.pdf)
 
  
