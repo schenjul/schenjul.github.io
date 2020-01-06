@@ -4,8 +4,7 @@ layout: default
 
 ## Introduction
 
-<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> 
-My name is Julia and I am a exchange student from Germany. I study German Linguistics at the Eberhard Karls University in Tübingen. As part of my study I spent one semester at the University of Helsinki. In my free time I read very much or work with dogs or horses. 
+<img src="assets/images/Julia.jpg" alt="Photo" hspace="10" width="20%" align="right"/> My name is Julia and I am a exchange student from Germany. I study German Linguistics at the Eberhard Karls University in Tübingen. As part of my study I spent one semester at the University of Helsinki. In my free time I read very much or work with dogs or horses. 
 
 ## Find me on
 
@@ -23,6 +22,9 @@ Julia.Schenk@helsinki.fi.
 
 ## Projects
 
+Learn how to use GitHub.
+[cmdline-course] (https://github.com/schenjul/cmdline-course)
+
 ## Misc. 
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+ 
